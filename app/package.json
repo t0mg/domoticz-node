@@ -2,9 +2,14 @@
   "name": "Domoticz-Node",
   "version": "0.0.1",
   "description": "Domoticz Node",
+  "license" : "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcnoren/domoticz-node"
+  },
   "dependencies": {
     "express": "4.10.2",
     "socket.io": "1.2.0",
-    "mqtt": "~1.7.0",
+    "mqtt": "~1.7.0"
   }
 }
